@@ -1,0 +1,21 @@
+{"index":{"_id":1}}
+{"book_id":1,"book_name":"Harry Potter And The Philosopher's Stone","author":"JK Rowling","genre":["thriller", "horror"],"publishing_details":{"published_date":"1997/01/01","distributed_by":"J and J publications"},"price":520.5,"suitable_age_group":{"gte":12}}
+{"index":{"_id":2}}
+{"book_id":2,"book_name":"Harry Potter And Chamber Of Secrets","author":"JK Rowling","genre":["thriller", "horror"],"publishing_details":{"published_date":"1998/01/01","distributed_by":"J and K publications"},"price":550.5,"suitable_age_group":{"gte":13}}
+{"index":{"_id":3}}
+{"book_id":3,"book_name":"Twilight","author":"Stephanie Mayer","genre":["supernatural", "drama"],"publishing_details":{"published_date":"1999/05/01","distributed_by":"SK publications"},"price":670.58,"suitable_age_group":{"gte":16, "lte":50}}
+{"index":{"_id":4}}
+{"book_id":4,"book_name":"Digital Fortress","author":"Dan Brown","genre":["thriller", "mystery"],"publishing_details":{"published_date":"1999/01/09","distributed_by":"DF publications"},"price":456.5,"suitable_age_group":{"gte":15}}
+{"index":{"_id":5}}
+{"book_id":1,"book_name":"Angels and Demons","author":"Dan Brown","genre":["thriller", "mystery"],"publishing_details":{"published_date":"2001/10/01","distributed_by":"DF publications"},"price":460.7,"suitable_age_group":{"gte":15, "lte":30}}
+{"index":{"_id":6}}
+{"book_id":6,"book_name":"The Breaking Dawn","author":"Stephanie Mayer","genre":["supernatural", "drama"],"publishing_details":{"published_date":"2000/07/06","distributed_by":"SK publications"},"price":520.8,"suitable_age_group":{"gte":16}}
+{"index":{"_id":7}}
+{"book_id":7,"book_name":"The Lost Symbol","author":"Dan Brown","genre":["thriller", "horror"],"publishing_details":{"published_date":"1999/05/05","distributed_by":"KL publications"},"price":670.35,"suitable_age_group":{"gte":15, "lte":20}}
+{"index":{"_id":8}}
+{"book_id":8,"book_name":"Gulliver's Travels","author":"Charles Dickens","genre":["comedy", "drama"],"publishing_details":{"published_date":"1996/08/25","distributed_by":"SP publications"},"price":520.5,"suitable_age_group":{"gte":10, "lte":25}}
+{"index":{"_id":9}}
+{"book_id":9,"book_name":"Oliver Twist","author":"Charles Dickens","genre":["thriller", "drama"],"publishing_details":{"published_date":"1995/07/20","distributed_by":"SP publications"},"price":587.5,"suitable_age_group":{"gte":14, "lte":25}}
+{"index":{"_id":10}}
+{"book_id":10,"book_name":"Golden Goose","author":"Charles Dickens","genre":["comedy"],"publishing_details":{"published_date":"2002/08/25","distributed_by":"SP publications"},"price":450.5,"suitable_age_group":{"gte":12}}
+
